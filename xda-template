@@ -1,0 +1,144 @@
+PAGE #1
+
+[CENTER][COLOR="DarkOliveGreen"]
+
+[IMG]http://i.imgur.com/sEq2LDn.png[/IMG]
+
+[B][SIZE="4"]Turbo ROM is a custom Android ROM based on the latest Android Marshmallow (6.0.1_r22). Sourced from a straight AOSP/CAF base, the ROM is now extremely feature rich and has lots of customization options. My (@Yoshi_Guy) goal with this ROM is to create a ROM with as many customization options and possible while still being stable. In addition, the ROM uses RRO/Layers for theming with full DayNight support. SuperSU is pre-installed along with ViPER4Android.[/SIZE][/B]
+
+[SIZE="5"][B]
+Device Maintainers:
+Android One: @vikrantarya1
+LG G3: @Yoshi_Guy
+Mako: @
+OnePlus One: @MZO
+
+[/B][/SIZE]
+
+[SIZE="5"][B]
+Features and options:
+[/B][/SIZE]
+[SIZE="4"][B]
+
+* Turbo tweaks, which includes: *
+ - Battery bar
+ - Expanded desktop
+ - LCD density changer
+ - Double tap power button vibration toggle
+ - Double tap to sleep on lock screen
+ - Double tap to sleep on navigation bar
+ - Double tap to sleep on status bar
+ - Three finger swipe for screenshot
+ - Lock screen alpha changer (for both the bouncer and normal screen)
+ - Bottom left and right lock screen shortcut changer
+ - Middle lock screen shortcut changer
+ - The ability to change the color of the lock screen alarm, clock, and date
+ - The ability to change the font of the lock clock
+ - The ability to hide the lock screen alarm, clock, and date
+ - Lock screen weather
+ - Lock screen wallpaper changer
+ - Lock screen torch toggle
+ - Enable lock screen media art toggle
+ - Multi-window moved out of developer options into Turbo tweaks
+ - Memory bar in Recents
+ - Google search bar toggle
+ - Recents clear all button toggle and placement adjustments
+ - Immersive recents options
+ - SlimRecents
+ - SlimRecents app sidebar
+ - Slim's navigation bar customization
+ - Auto-brightness toggle in the QS panel
+ - Show weather in QS header
+ - Brightness slider toggle in QS
+ - Quick pulldown in QS
+ - Time contextual headers in QS (including Poly HD)
+ - Advanced location tile toggle
+ - Enlarge the first row of QS tiles toggle
+ - The ability to set the number of QS columns (3, 4, or 5)
+ - The ability to arrange the QS tiles
+ - Status bar battery configuration
+ - Status bar brightness control
+ - Full status bar clock and date customization including
+	- Alignment
+	- Color
+	- Font
+	- Size
+	- Whether or not to show AM/PM
+	- Whether or not to show the seconds
+ - Blacklist status bar icons
+ - Breathing SMS, missed call, and voicemail
+ - Notification counter (shows the number of pending notifications in the app's notification icon)
+ - Turbo ROM logo in the status bar toggle
+ - Status bar weather customization including
+	- Alignment
+	- Color
+	- Scale
+	- Size
+	- Temperature scale toggle
+ - AOKP custom system animation customization
+ - Power menu animation customization
+ - List view animation customization
+ - Hardware key customization
+ - Volume rocker customization including
+	- Volume rocker wake
+	- Reorient volume buttons
+	- Volume down to enter silent mode
+	- Volume up to exit silent mode
+	- Volume rocker music controls
+ - Advanced reboot
+ - Slim's global menu customization
+
+* Outside of Turbo tweaks *
+ - Settings dashboard organization
+ - Settings dashboard switches toggle
+ - Settings dashboard column configuration
+ - Proximity wake checker
+ - More rotation settings
+ - Wake on plug configuration
+ - Ambient display settings, including
+	- Notification inversion toggle
+	- Ambient display toggle
+	- Ambient display timeout
+	- Notification trigger toggle
+	- Scheduler toggle
+	- Brightness level
+ - Battery and notification light configuration
+ - Link and unlink ring and notification volumes
+ - Screenshot sound toggle
+ - IME customizations including
+	- Auto keyboard rotation 
+	- Disable full-screen keyboard toggle
+	- IME selector notification toggle
+ 	- Force show enter key
+	- Volume key cursor control
+ - Battery saver color configuration
+ - Reset battery stats
+ - Heads up notifications toggle
+ - Force expanded notifications toggle
+ - Flashlight notification toggle
+ - Disable immersive messages toggle
+ - Phone number lookup
+ - Proximity speakerphone
+ - Quick reply messaging
+ - Call blacklist
+ - Swipe to delete in messaging
+ - Even more!
+
+[/B][/SIZE]
+
+[SIZE="5"][B]
+Installation instructions
+[/B][/SIZE]
+
+[SIZE="4"][B]
+
+*Download the ROM and GApps of your choice (I use BaNkS)
+*Boot into Recovery
+*Wipe System, Data, Cache and Dalvik Cache
+*Flash the ROM and GApps
+*Reboot 
+
+[/B][/SIZE]
+
+[/CENTER][/COLOR]
+
