@@ -1,8 +1,17 @@
-PAGE #1
-
 [CENTER][COLOR="DarkOliveGreen"]
 
 [IMG]http://i.imgur.com/sEq2LDn.png[/IMG]
+[CODE] 
+/* Disclaimer 
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, 
+* or you getting fired because the alarm app failed. Please do some research 
+* if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you blame me in any way for what happens to your device, I will laugh at you.
+* BOOM! goes the dynamite
+*/
+[/CODE]
+[CODE] Your warranty will be void upon flashing this ROM [/CODE]
 
 [B][SIZE="4"]Turbo ROM is a custom Android ROM based on the latest Android Marshmallow (6.0.1_r22). Sourced from a straight AOSP/CAF base, the ROM is now extremely feature rich and has lots of customization options. My (@Yoshi_Guy) goal with this ROM is to create a ROM with as many customization options and possible while still being stable. In addition, the ROM uses RRO/Layers for theming with full DayNight support. SuperSU is pre-installed along with ViPER4Android.[/SIZE][/B]
 
@@ -141,4 +150,3 @@ Installation instructions
 [/B][/SIZE]
 
 [/CENTER][/COLOR]
-
