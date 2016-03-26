@@ -1,16 +1,26 @@
-PAGE #1
-
 [CENTER][COLOR="DarkOliveGreen"]
 
 [IMG]http://i.imgur.com/sEq2LDn.png[/IMG]
+[CODE] 
+/* Disclaimer 
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, 
+* or you getting fired because the alarm app failed. Please do some research 
+* if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you blame me in any way for what happens to your device, I will laugh at you.
+* BOOM! goes the dynamite
+*/
+[/CODE]
+[CODE] Your warranty will be void upon flashing this ROM [/CODE]
 
 [B][SIZE="4"]Turbo ROM is a custom Android ROM based on the latest Android Marshmallow (6.0.1_r22). Sourced from a straight AOSP/CAF base, the ROM is now extremely feature rich and has lots of customization options. My (@Yoshi_Guy) goal with this ROM is to create a ROM with as many customization options and possible while still being stable. In addition, the ROM uses RRO/Layers for theming with full DayNight support. SuperSU is pre-installed along with ViPER4Android.[/SIZE][/B]
 
 [SIZE="5"][B]
 Device Maintainers:
-Android One: @vikrantarya1
+Android One (sprout4 and sprout8): @Shreesha.Murthy
 LG G3: @Yoshi_Guy
-Mako: @
+Mako: @nitin.chobhe
+Nexus 5: @vikrantarya1
 OnePlus One: @MZO
 
 [/B][/SIZE]
@@ -132,7 +142,7 @@ Installation instructions
 
 [SIZE="4"][B]
 
-*Download the ROM and GApps of your choice (I use BaNkS)
+*Download the ROM and GApps
 *Boot into Recovery
 *Wipe System, Data, Cache and Dalvik Cache
 *Flash the ROM and GApps
@@ -140,5 +150,9 @@ Installation instructions
 
 [/B][/SIZE]
 
-[/CENTER][/COLOR]
+[B]Dowloads:[/B]
+[URL=https://www.androidfilehost.com/?w=files&flid=52874]ROM[/URL]
+[URL=http://download.dirtyunicorns.com/files/gapps/banks_gapps/]BaNkS GApps[/URL]
+[URL=opegapps.org]OpenGApps[/URL]
 
+[/CENTER][/COLOR]
