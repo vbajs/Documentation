@@ -16,13 +16,14 @@
 [B][SIZE="4"]Turbo ROM is a custom Android ROM based on the latest Android Marshmallow (6.0.1_r22). Sourced from a straight AOSP/CAF base, the ROM is now extremely feature rich and has lots of customization options. My (@Yoshi_Guy) goal with this ROM is to create a ROM with as many customization options and possible while still being stable. In addition, the ROM uses RRO/Layers for theming with full DayNight support. SuperSU is pre-installed along with ViPER4Android.[/SIZE][/B]
 
 [SIZE="5"][B]
+Lead developer: @Yoshi_Guy
+
 Device Maintainers:
 Android One (sprout4 and sprout8): @Shreesha.Murthy
 LG G3: @Yoshi_Guy
 Mako: @nitin.chobhe
 Nexus 5: @vikrantarya1
 OnePlus One: @MZO
-
 [/B][/SIZE]
 
 [SIZE="5"][B]
@@ -68,33 +69,17 @@ Features and options:
  - The ability to arrange the QS tiles
  - Status bar battery configuration
  - Status bar brightness control
- - Full status bar clock and date customization including
-	- Alignment
-	- Color
-	- Font
-	- Size
-	- Whether or not to show AM/PM
-	- Whether or not to show the seconds
+ - Full status bar clock and date customization 
  - Blacklist status bar icons
  - Breathing SMS, missed call, and voicemail
  - Notification counter (shows the number of pending notifications in the app's notification icon)
  - Turbo ROM logo in the status bar toggle
- - Status bar weather customization including
-	- Alignment
-	- Color
-	- Scale
-	- Size
-	- Temperature scale toggle
+ - Full status bar weather customization 
  - AOKP custom system animation customization
  - Power menu animation customization
  - List view animation customization
  - Hardware key customization
- - Volume rocker customization including
-	- Volume rocker wake
-	- Reorient volume buttons
-	- Volume down to enter silent mode
-	- Volume up to exit silent mode
-	- Volume rocker music controls
+ - Full volume rocker customization
  - Advanced reboot
  - Slim's global menu customization
 
@@ -105,22 +90,12 @@ Features and options:
  - Proximity wake checker
  - More rotation settings
  - Wake on plug configuration
- - Ambient display settings, including
-	- Notification inversion toggle
-	- Ambient display toggle
-	- Ambient display timeout
-	- Notification trigger toggle
-	- Scheduler toggle
-	- Brightness level
+ - Ambient display notification inversion toggle
+ - Slim's ambient display settings
  - Battery and notification light configuration
  - Link and unlink ring and notification volumes
  - Screenshot sound toggle
- - IME customizations including
-	- Auto keyboard rotation 
-	- Disable full-screen keyboard toggle
-	- IME selector notification toggle
- 	- Force show enter key
-	- Volume key cursor control
+ - Full Slim IME customizations
  - Battery saver color configuration
  - Reset battery stats
  - Heads up notifications toggle
@@ -133,13 +108,11 @@ Features and options:
  - Call blacklist
  - Swipe to delete in messaging
  - Even more!
-
 [/B][/SIZE]
 
 [SIZE="5"][B]
 Installation instructions
 [/B][/SIZE]
-
 [SIZE="4"][B]
 
 *Download the ROM and GApps
@@ -149,7 +122,6 @@ Installation instructions
 *Reboot 
 
 [/B][/SIZE]
-
 [B]Dowloads:[/B]
 [URL=https://www.androidfilehost.com/?w=files&flid=52874]ROM[/URL]
 [URL=http://download.dirtyunicorns.com/files/gapps/banks_gapps/]BaNkS GApps[/URL]
