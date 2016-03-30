@@ -1,6 +1,5 @@
 Problems casting to rokus (look at Tipsy for a fix) 
 Fix status bar and navigation bar sometimes being black 
 Fix the auto-brightness icon in QS showing in the brightness slider even when off
-SuperSU doesn't automatically flash
 Gesture typing does not work with AOSP Keyboard
 Issue with Black Theme, When setting Custom DPI Value the text is black on black
