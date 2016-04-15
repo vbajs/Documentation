@@ -2,7 +2,9 @@
 # Turbo ROM - Marshmallow
 
   Source Code: http://github.com/TurboROM
+  
   G+: https://plus.google.com/communities/100107549156816400681
+  
   For extended changelog, track github activities
 
 # The Changelog
