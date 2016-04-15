@@ -1,5 +1,5 @@
 # Common OTA url for all devices
-ota_url=https://raw.githubusercontent.com/TurboROM/OTA/master/TurboOTA.xml
+ota_url=https://github.com/TurboROM-Devices/OTA/blob/mm/TurboOTA.xml
 release_type=Stable
 device_name=ro.turbo.device
  
