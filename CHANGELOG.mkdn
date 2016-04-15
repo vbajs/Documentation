@@ -1,0 +1,24 @@
+
+# Turbo ROM - Marshmallow
+
+  Source Code: http://github.com/TurboROM
+  G+: https://plus.google.com/communities/100107549156816400681
+  For extended changelog, track github activities
+
+# The Changelog
+
+# Turbo ROM - v3.4 - Android r30 - 20160414
+
+- Android 6.0.1_r22 -> Android 6.0.1_r24 -> Android 6.0.1_r30
+- Bug fixes and general improvements
+- Add a lot more ambient display options
+- Add source built ViPER4Android
+- Add call recording
+- Fix color picker fc on tablets
+- Update OmniSwitch
+- Add more UBER TC's
+- Enable roomservice
+- Add Turbo status bar logo positioning
+- Add Quick Settings edit button switch
+- Fix Quick Settings edit button switch
+- For more info track GitHub activities
