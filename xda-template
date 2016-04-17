@@ -12,7 +12,7 @@
 */
 [/CODE]
 [CODE] Your warranty will be void upon flashing this ROM [/CODE]
-[B][SIZE="4"]Turbo ROM is a custom Android ROM based on the latest Android Marshmallow (6.0.1_r22). Sourced from a straight AOSP/CAF base, the ROM is now extremely feature rich and has lots of customization options. My ([MENTION=6755930]Yoshi_Guy[/MENTION]) goal with this ROM is to create a ROM with as many customization options and possible while still being stable. In addition, the ROM uses RRO/Layers for theming with full DayNight support. SuperSU is pre-installed.[/SIZE][/B]
+[B][SIZE="4"]Turbo ROM is a custom Android ROM based on the latest Android Marshmallow (6.0.1_r30). Sourced from a straight AOSP/CAF base, the ROM is now extremely feature rich and has lots of customization options. My ([MENTION=6755930]Yoshi_Guy[/MENTION]) goal with this ROM is to create a ROM with as many customization options and possible while still being stable. In addition, the ROM uses RRO/Layers for theming with full DayNight support. SuperSU is pre-installed.[/SIZE][/B]
 [SIZE="5"][B]
 Lead developer: [MENTION=6755930]Yoshi_Guy[/MENTION]
 [/B][/SIZE]
@@ -86,6 +86,14 @@ Features and options:
  - Full volume rocker customization
  - Advanced reboot
  - Slim's global menu customization
+ - Carrier label options
+ - Increasing ring in phone and alarm
+ - Tons of status bar color options
+ - Status bar header QS edit button
+ - Network traffic indicators 
+ - Lock screen blur
+ - OmniSwitch 
+ - 
 
 * Outside of Turbo tweaks *
  - Settings dashboard organization
