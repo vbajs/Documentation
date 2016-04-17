@@ -1,10 +1,5 @@
 Toast icons
-Quick unlock
 Soft Reboot (APM)
-(Quick Unlock:
-https://github.com/BrokenROM/frameworks_base/commit/f484915ee5f23f7022deca62de08932bce82393e
-https://github.com/BrokenROM/frameworks_base/commit/e5c49111495bdd3333f70f2cd738673fcf417c20
-https://github.com/BrokenROM/packages_apps_Settings/commit/0e803aaf2dadc2f01b2bc49cc28da51ecd21dd0f)
 (Disable Quick Settings On Secure Lockscreen
 https://github.com/BrokenROM/frameworks_base/commit/8d20c985f5c5db5983132dd15971a10f717a8d70
 https://github.com/BrokenROM/packages_apps_Settings/commit/7dac330c0e0e75d56f942caa54b4064144cc7040)
