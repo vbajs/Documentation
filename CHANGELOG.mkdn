@@ -24,8 +24,8 @@
 - Add Turbo status bar logo positioning
 - Add Quick Settings edit button switch
 - Fix Quick Settings edit button switch
-- For more info track GitHub activities
 - Quick unlock
 - Scramble PIN layout
 - Add more options to the new status bar battery mods
 - Added Layers Manager & Kernel Adiutor tiles
+- For more info track GitHub activities
