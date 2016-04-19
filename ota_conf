@@ -4,7 +4,7 @@ release_type=Stable
 device_name=ro.turbo.device
  
 # Example ro.turbo.version=Turbo-3.3-OFFICIAL-20160413
-version_source=ro.turbo.version
+version_source=ro.modversion
 version_delimiter=-
 version_position=4
 version_format=yyyyMMdd
