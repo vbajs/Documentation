@@ -9,6 +9,34 @@
 
 # The Changelog
 
+# Turbo ROM - v4.0 - Android r30 - 20160607
+
+- Android 6.0.1_r30 -> Android 6.0.1_r43
+- Source has been REBASED
+- OTA is FIXED
+- Bug fixes and general improvements
+- Added Dirty Unicorns navigation bar customizations
+- Added Task manager
+- Added Screen record (to Global menu and nav. bar)
+- Added live volume steps
+- Added a bunch of Heads Up tweaks (blacklist, whitelist, and timeout)
+- Added toast icon toggle
+- Added lock screen charging current switch
+- Added Heads Up button in expanded status bar
+- SuperSU has been replaced by in-built Privacy Guard based root, modified by me
+- Added Privacy Guard
+- Added soft reboot to Global menu
+- Added an... Easter egg... in Settings. Find it in about device!  \(◕ヮ◕)/ 
+- Slim lock screen shortcut icons can now be colored
+- Scrolling cache tweaks
+- Animation toggle off switch for certain animations
+- Added 'Do not disturb' 15 min. steps up to 14 hours
+- Added battery saver and low battery notification toggles
+- Prettified the Settings changelog
+- A bit of Settings organization
+- For more info track GitHub activities
+
+
 # Turbo ROM - v3.4 - Android r30 - 20160414
 
 - Android 6.0.1_r22 -> Android 6.0.1_r24 -> Android 6.0.1_r30
