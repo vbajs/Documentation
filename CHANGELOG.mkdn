@@ -9,7 +9,7 @@
 
 # The Changelog
 
-# Turbo ROM - v4.0 - Android r30 - 20160607
+# Turbo ROM - v4.0 - Android r43 - 20160607
 
 - Android 6.0.1_r30 -> Android 6.0.1_r43
 - Source has been REBASED
